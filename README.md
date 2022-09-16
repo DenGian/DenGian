@@ -14,4 +14,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DenGian&&show_icons=true&title_color=ffffff&icon_color=0c22f0&text_color=ffffff&bg_color=191919">
 
- <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical" /> 
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical" /> 
