@@ -8,4 +8,4 @@
 - 📫 How to reach me: mondelaers.ian@gmail.com - Discord: DenGian#7397
 - ⚡ Fun fact: "F*ck it" - My final thought before making most decisions.
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenGian&&show_icons=true&title_color=ffffff&icon_color=000000&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=DenGian&&show_icons=true&title_color=ffffff&icon_color=1022ca&text_color=daf7dc&bg_color=191919">
