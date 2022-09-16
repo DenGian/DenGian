@@ -1,7 +1,7 @@
 ### Olá, I'm Ian Mondelaers 👋
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning PHP, OOP and MVC
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for people to start new projects :)
 - 💬 Ask me about my experience @BeCode
