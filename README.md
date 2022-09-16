@@ -10,4 +10,6 @@
 - ⚡ Fun fact: "F*ck it" - My final thought before making most decisions.
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DenGian&border=e4e2e2&theme=radical"/>
+<p position="absolute">
 <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical"/> 
+</p>
