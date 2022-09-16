@@ -1,5 +1,9 @@
 ### Olá, I'm Ian Mondelaers 👋
 
+  <img 
+    width="49%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=glinchflash&border=e4e2e2&theme=radical" />  
+
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on GitHub 
