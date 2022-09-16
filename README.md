@@ -3,7 +3,7 @@
   <img 
     width="50%"
     src="http://github-readme-streak-stats.herokuapp.com?user=DenGian&border=e4e2e2&theme=radical" /> 
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical" /> 
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical" /> 
 
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning C#
