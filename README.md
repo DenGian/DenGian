@@ -52,7 +52,7 @@
           <img src="./assets/php.png" alt="Php" />
         </td>
         <td style="text-align:center"><img src="./assets/ts.png" alt="TypeScript" /></td>
-        <td style="text-align:center"><img src="./assets/CSharp.png" alt="bash" /></td>
+        <td style="text-align:center"><img src="./assets/CSharp.png" alt="C#" /></td>
       </tbody>
 </table>
 
@@ -88,7 +88,7 @@
           <img src="./assets/Tools/git.png" alt="Git" />
         </td>
         <td style="text-align:center">
-          <img src="./assets/Tools/.net.png" alt="Tailwind CSS" />
+          <img src="./assets/Tools/.net.png" alt=".Net" />
         </td>
       </tbody>
 </table>
