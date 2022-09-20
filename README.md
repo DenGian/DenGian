@@ -1,3 +1,4 @@
+# 🙋🏼‍️ Hi there! I'm
 ````
        ....                                         ....        .      .                              
    .xH888888Hx.                                  .x88" `^x~  xH(`     @88>                            
@@ -12,14 +13,99 @@
  !   "*888888888"     "88888%      ""   'Y"      `*88.      :88%      R888" "888*""888"    ""   'Y"   
         ^"***"`         "YP'                        ^"~====""`         ""    ^Y"   ^Y'                
 ````
+## AKA Ian Mondelaers 
 
+---
 
+- 💼 I’m currently following a Full Stack Web Developer course
+- 👯 I’m looking to collaborate 
+- 📫 How to reach me: 
+  - [email](mondelaers.ian@gmail.com) 
+  - Discord: DenGian #7397
+- 🖇 Connect with me:  
+  <a href="https://www.linkedin.com/in/ian-mondelaers-980b8622a/">
+  <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+---
+### 🧑🏼‍💻  The languages I use 
 
-- 🌱 I’m currently learning C# / .net
-- 👯 I’m looking to collaborate or an internship
-- 📫 How to reach me: [email](mondelaers.ian@gmail.com) - Discord: DenGian#7397
-- ⚡ Fun fact: "F*ck it" - My final thought before making most decisions.
-- 🎁 Some of the things I learned:
+<table>
+      <thead style="text-align:center">
+        <th style="text-align:center">HTML</th>
+        <th style="text-align:center">CSS</th>
+        <th style="text-align:center">JavaScript</th>
+        <th style="text-align:center">PHP</th>
+        <th style="text-align:center">TypeScript</th>
+        <th style="text-align:center">C#</th>
+      </thead>
+      <tbody>
+        <td style="text-align:center">
+          <img src="./assets/html.png" alt="HTML 5" />
+        </td>
+        <td style="text-align:center" >
+          <img src="./assets/css.png" alt="CSS3" />
+        </td>
+        <td style="text-align:center">
+          <img src="./assets/js.png" alt="JavaScript" />
+        </td>
+        <td style="text-align:center">
+          <img src="./assets/php.png" alt="Php" />
+        </td>
+        <td style="text-align:center"><img src="./assets/ts.png" alt="TypeScript" /></td>
+        <td style="text-align:center"><img src="./assets/CSharp.png" alt="bash" /></td>
+      </tbody>
+</table>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=DenGian&border=e4e2e2&theme=radical"/>
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenGian&layout=compact&theme=radical"/> 
+### ⚒️ The tools I use 🛠
+
+<table>
+      <thead style="text-align:center">
+        <th style="text-align:center">SASS</th>
+        <th style="text-align:center">ReactJS</th>
+        <th style="text-align:center">Angular</th>
+        <th style="text-align:center">ExpressJS</th>
+        <th style="text-align:center">Symfony</th>
+        <th style="text-align:center">Git</th>
+        <th style="text-align:center">.NET</th>
+      </thead>
+      <tbody>
+        <td style="text-align:center">
+          <img src="./assets/Tools/sass.png" alt="SASS" />
+        </td>
+        <td style="text-align:center">
+          <img src="assets/Tools/reactjs.png" alt="ReactJS" />
+        </td>
+        <td style="text-align:center">
+          <img src="./assets/Tools/angular.png" alt="Angular" />
+        </td>
+        <td style="text-align:center;">
+          <img src="./assets/Tools/expressjs.png" alt="ExpressJS" />
+        </td>
+        <td style="text-align:center">
+          <img src="./assets/Tools/symfony.png" alt="Symfony" />
+        </td>
+        <td style="text-align:center;">
+          <img src="./assets/Tools/git.png" alt="Git" />
+        </td>
+        <td style="text-align:center">
+          <img src="./assets/Tools/.net.png" alt="Tailwind CSS" />
+        </td>
+      </tbody>
+</table>
+
+---
+
+### 👀 Currently looking to:
+
+- 📈 Start my career as a web developer
+- 🔎 Find an internship  
+- 📚 Improve my knowledge
+- 🧠 Improve my programming skills
+
+---
+
+ 
+<blockquote cite="https://twitter.com/housecor/status/400479246713229312">
+“Code is like humor. When you have to explain it, it’s bad.“
+ – Cory House
+</blockquote>
