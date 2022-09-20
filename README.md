@@ -38,7 +38,7 @@
         <th style="text-align:center">TypeScript</th>
         <th style="text-align:center">C#</th>
       </thead>
-      <tbody>
+      <tbody align="center">
         <td style="text-align:center">
           <img src="./assets/html.png" alt="HTML 5" />
         </td>
@@ -68,7 +68,7 @@
         <th style="text-align:center">Git</th>
         <th style="text-align:center">.NET</th>
       </thead>
-      <tbody>
+      <tbody align="center">
         <td style="text-align:center">
           <img src="./assets/Tools/sass.png" alt="SASS" />
         </td>
