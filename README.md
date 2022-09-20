@@ -11,10 +11,9 @@
   X88888888hx. ..!   '8888c. .+  "*88*" 8888"   ?888  -:8*"  <888"    888&  9888  9888   "*88*" 8888" 
  !   "*888888888"     "88888%      ""   'Y"      `*88.      :88%      R888" "888*""888"    ""   'Y"   
         ^"***"`         "YP'                        ^"~====""`         ""    ^Y"   ^Y'                
-                                                                                                      
 ````
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenGian&&show_icons=true&title_color=ffffff&icon_color=0c22f0&text_color=ffffff&bg_color=191919">
+
 
 - 🌱 I’m currently learning C# / .net
 - 👯 I’m looking to collaborate or an internship
