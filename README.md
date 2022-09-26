@@ -78,13 +78,13 @@
           <img src="./assets/Tools/angular.png" alt="Angular" />
         </td>
         <td style="text-align:center;">
-          <img src="./assets/Tools/expressjs.png" alt="ExpressJS" />
+          <img src="./assets/Tools/expressjs_dark.png" alt="ExpressJS" />
         </td>
         <td style="text-align:center">
           <img src="./assets/Tools/symfony.png" alt="Symfony" />
         </td>
         <td style="text-align:center;">
-          <img src="./assets/Tools/git.png" alt="Git" />
+          <img src="./assets/Tools/git_dark.png" alt="Git" />
         </td>
         <td style="text-align:center">
           <img src="./assets/Tools/.net.png" alt=".Net" />
