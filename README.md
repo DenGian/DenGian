@@ -1,4 +1,5 @@
 # 🙋🏼‍️ Hi there! I'm Ian Mondelaers
+
 ````
        ....                                         ....        .      .                              
    .xH888888Hx.                                  .x88" `^x~  xH(`     @88>                            
@@ -17,16 +18,18 @@
 ---
 
 - 💼 I’m currently following a Full Stack Web Developer course
-- 👯 I’m looking to collaborate 
-- 📫 How to reach me: 
-  - [email](mondelaers.ian@gmail.com) 
-  - Discord: DenGian #7397
+- 👯 I’m looking to collaborate
+- 📫 How to reach me:
+    - [email](mondelaers.ian@gmail.com)
+    - Discord: DenGian #7397
 - 🖇 Connect with me:  
   <a href="https://www.linkedin.com/in/ian-mondelaers-980b8622a/">
   <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 ---
-### 🧑🏼‍💻  The languages I use 
+
+### 🧑🏼‍💻 The languages I use
 
 <table>
       <thead style="text-align:center">
@@ -66,6 +69,7 @@
         <th style="text-align:center">Symfony</th>
         <th style="text-align:center">Git</th>
         <th style="text-align:center">.NET</th>
+        <th style="text-align:center">Node.js</th>
       </thead>
       <tbody align="center">
         <td style="text-align:center">
@@ -89,6 +93,9 @@
         <td style="text-align:center">
           <img src="./assets/Tools/.net.png" alt=".Net" />
         </td>
+        <td style="text-align:center">
+          <img src="./assets/Tools/nodejs.png" alt="Node.js" />
+        </td>
       </tbody>
 </table>
 
@@ -97,13 +104,13 @@
 ### 👀 Currently looking to:
 
 - 📈 Start my career as a web developer
-- 🔎 Find an internship  
+- 🔎 Find an internship
 - 📚 Improve my knowledge
 - 🧠 Improve my programming skills
 
 ---
 
- 
+
 <blockquote cite="https://twitter.com/housecor/status/400479246713229312">
 “Code is like humor. When you have to explain it, it’s bad.“
  – Cory House
