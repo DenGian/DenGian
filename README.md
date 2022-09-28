@@ -70,6 +70,7 @@
         <th style="text-align:center">Git</th>
         <th style="text-align:center">.NET</th>
         <th style="text-align:center">Node.js</th>
+        <th style="text-align:center">MariaDB</th>
       </thead>
       <tbody align="center">
         <td style="text-align:center">
@@ -95,6 +96,9 @@
         </td>
         <td style="text-align:center">
           <img src="./assets/Tools/nodejs.png" alt="Node.js" />
+        </td>
+<td style="text-align:center">
+          <img src="./assets/Tools/MariaDB.png" alt="MariaDB" />
         </td>
       </tbody>
 </table>
