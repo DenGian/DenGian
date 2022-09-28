@@ -39,6 +39,7 @@
         <th style="text-align:center">PHP</th>
         <th style="text-align:center">TypeScript</th>
         <th style="text-align:center">C#</th>
+        <th style="text-align:center">SQL</th>
       </thead>
       <tbody align="center">
         <td style="text-align:center">
@@ -53,8 +54,15 @@
         <td style="text-align:center">
           <img src="./assets/php.png" alt="Php" />
         </td>
-        <td style="text-align:center"><img src="./assets/ts.png" alt="TypeScript" /></td>
-        <td style="text-align:center"><img src="./assets/CSharp.png" alt="C#" /></td>
+        <td style="text-align:center">
+        <img src="./assets/ts.png" alt="TypeScript" />
+        </td>
+        <td style="text-align:center">
+        <img src="./assets/CSharp.png" alt="C#" />
+        </td>
+        <td style="text-align:center">
+        <img src="./assets/SQL.png" alt="SQL" />
+        </td>
       </tbody>
 </table>
 
@@ -70,7 +78,6 @@
         <th style="text-align:center">Git</th>
         <th style="text-align:center">.NET</th>
         <th style="text-align:center">Node.js</th>
-        <th style="text-align:center">MariaDB</th>
       </thead>
       <tbody align="center">
         <td style="text-align:center">
@@ -96,9 +103,6 @@
         </td>
         <td style="text-align:center">
           <img src="./assets/Tools/nodejs.png" alt="Node.js" />
-        </td>
-<td style="text-align:center">
-          <img src="./assets/Tools/MariaDB.png" alt="MariaDB" />
         </td>
       </tbody>
 </table>
