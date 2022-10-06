@@ -1,4 +1,4 @@
-# 🙋🏼‍️ Hi there! I'm Ian Mondelaers
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving hand" width="28px"> Hi there! I'm Ian Mondelaers
 
 ````
        ....                                         ....        .      .                              
