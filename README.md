@@ -30,81 +30,15 @@
 
 ### 🧑🏼‍💻 The languages I use
 
-<table>
-      <thead style="text-align:center">
-        <th style="text-align:center">HTML</th>
-        <th style="text-align:center">CSS</th>
-        <th style="text-align:center">JavaScript</th>
-        <th style="text-align:center">PHP</th>
-        <th style="text-align:center">TypeScript</th>
-        <th style="text-align:center">C#</th>
-        <th style="text-align:center">SQL</th>
-      </thead>
-      <tbody align="center">
-        <td style="text-align:center">
-          <img src="./assets/html.png" alt="HTML 5" />
-        </td>
-        <td style="text-align:center" >
-          <img src="./assets/css.png" alt="CSS3" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/js.png" alt="JavaScript" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/php.png" alt="Php" />
-        </td>
-        <td style="text-align:center">
-        <img src="./assets/ts.png" alt="TypeScript" />
-        </td>
-        <td style="text-align:center">
-        <img src="./assets/CSharp.png" alt="C#" />
-        </td>
-        <td style="text-align:center">
-        <img src="./assets/SQL.png" alt="SQL" />
-        </td>
-      </tbody>
-</table>
+|             HTML             |            CSS            |           JavaScript           |           PHP            |           TypeScript           |             C#             |           SQL            |            Java            |             Python             |
+| :--------------------------: | :-----------------------: | :----------------------------: | :----------------------: | :----------------------------: | :------------------------: | :----------------------: | :------------------------: | :----------------------------: |
+| ![HTML 5](./assets/html.png) | ![CSS3](./assets/css.png) | ![JavaScript](./assets/js.png) | ![Php](./assets/php.png) | ![TypeScript](./assets/ts.png) | ![C#](./assets/CSharp.png) | ![SQL](./assets/SQL.png) | ![Java](./assets/java.png) | ![Python](./assets/python.png) |
 
 ### ⚒️ The tools I use 🛠
 
-<table>
-      <thead style="text-align:center">
-        <th style="text-align:center">SASS</th>
-        <th style="text-align:center">ReactJS</th>
-        <th style="text-align:center">Angular</th>
-        <th style="text-align:center">ExpressJS</th>
-        <th style="text-align:center">Symfony</th>
-        <th style="text-align:center">Git</th>
-        <th style="text-align:center">.NET</th>
-        <th style="text-align:center">Node.js</th>
-      </thead>
-      <tbody align="center">
-        <td style="text-align:center">
-          <img src="./assets/Tools/sass.png" alt="SASS" />
-        </td>
-        <td style="text-align:center">
-          <img src="assets/Tools/reactjs.png" alt="ReactJS" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/Tools/angular.png" alt="Angular" />
-        </td>
-        <td style="text-align:center;">
-          <img src="./assets/Tools/expressjs_dark.png" alt="ExpressJS" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/Tools/symfony.png" alt="Symfony" />
-        </td>
-        <td style="text-align:center;">
-          <img src="./assets/Tools/git_dark.png" alt="Git" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/Tools/.net.png" alt=".Net" />
-        </td>
-        <td style="text-align:center">
-          <img src="./assets/Tools/nodejs.png" alt="Node.js" />
-        </td>
-      </tbody>
-</table>
+|               SASS               |               ReactJS                |                Angular                 |                    ExpressJS                    |                Symfony                 |                 Git                 |               .NET               |                Node.js                |                Spring                |                  React Native                   |                Webots                |
+| :------------------------------: | :----------------------------------: | :------------------------------------: | :---------------------------------------------: | :------------------------------------: | :---------------------------------: | :------------------------------: | :-----------------------------------: | :----------------------------------: | :---------------------------------------------: | :----------------------------------: |
+| ![SASS](./assets/Tools/sass.png) | ![ReactJS](assets/Tools/reactjs.png) | ![Angular](./assets/Tools/angular.png) | ![ExpressJS](./assets/Tools/expressjs_dark.png) | ![Symfony](./assets/Tools/symfony.png) | ![Git](./assets/Tools/git_dark.png) | ![.Net](./assets/Tools/.net.png) | ![Node.js](./assets/Tools/nodejs.png) | ![Spring](./assets/Tools/spring.png) | ![React Native](./assets/Tools/reactnative.png) | ![Webots](./assets/Tools/webots.png) |
 
 ---
 
