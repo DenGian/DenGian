@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title">
+<title id="title">Connected systems and robotics geometry</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f6f8f8"/><stop offset="1" stop-color="#e8f0ef"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#346762" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="220" rx="16" fill="url(#grid)"/>
+<g fill="none" stroke="#4a7774" stroke-width="1.5" stroke-linejoin="round">
+<path opacity=".6" d="M0 166h132l30-30h105l28-28h145l30 30h127l28-28h103"/>
+<path opacity=".45" d="M0 50h135l30 30h126l25-25h115m-264 25v56m149-81v53m116-53h72"/>
+<path opacity=".55" d="M720 30h84l30 30h58M720 190h84l30-30h58M1066 60h72l32-32h30M1066 160h72l32 32h30"/>
+</g>
+<path d="M0 190h94l34-34h103l39 39h106l36-36h150" fill="none" stroke="#168882" stroke-width="2"/>
+<g fill="#167d79"><circle cx="162" cy="136" r="4"/><circle cx="295" cy="108" r="4"/><circle cx="470" cy="138" r="4"/><circle cx="128" cy="156" r="4"/><circle cx="412" cy="159" r="4"/><circle cx="720" cy="30" r="3"/><circle cx="720" cy="190" r="3"/><circle cx="892" cy="60" r="3"/><circle cx="892" cy="160" r="3"/></g>
+<g fill="none" stroke="#168882" transform="translate(979 110)">
+<circle r="77" stroke-opacity=".25"/><circle r="58" stroke-width="2" stroke-opacity=".7"/><circle r="38" stroke-opacity=".75"/><circle r="15" stroke-width="2"/>
+<path d="M-92 0h184M0-92v184M-42-42l84 84M42-42l-84 84" stroke-opacity=".3"/>
+<path d="M-58 0a58 58 0 0 1 58-58M58 0a58 58 0 0 1-58 58" stroke-width="4" stroke-linecap="round"/>
+<circle r="5" fill="#168882" stroke="none"/>
+</g>
+<path d="M20 219h1160" stroke="#168882" stroke-width="2" opacity=".8"/>
+</svg>
