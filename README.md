@@ -10,7 +10,7 @@
 
 I build backend and full-stack software with attention to clear boundaries, maintainability and engineering trade-offs. My work spans real-time applications, browser engineering and robotics simulation. I'm completing a Bachelor's in Applied Computer Science at AP Hogeschool Antwerpen, with a Robotics minor.
 
-<a href="https://www.linkedin.com/in/ian-mondelaers/"></a> <a href="mailto:mondelaers.ian@gmail.com"></a>
+<a href="https://www.linkedin.com/in/ian-mondelaers/"><img src="assets/linkedin-button.svg" alt="LinkedIn" width="112" height="36"></a> <a href="mailto:mondelaers.ian@gmail.com"><img src="assets/email-button.svg" alt="Email" width="92" height="36"></a>
 
 ## Engineering focus
 
@@ -53,4 +53,6 @@ During a six-month full-stack software engineering internship at HolonCom in 202
 
 ## Currently exploring
 
-Agentic software systems, software architecture and the boundary between software and autonomous physical systems.
+I'm currently exploring agentic software systems and the boundary between software architecture and autonomous physical systems.
+
+_I tend to enjoy the questions behind the implementation as much as the implementation itself._
