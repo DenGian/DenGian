@@ -14,26 +14,8 @@ My work moves between backend and full-stack systems, browser engineering and ro
 
 <a href="https://www.linkedin.com/in/ian-mondelaers/"><img src="assets/linkedin-button.svg" alt="LinkedIn" width="112" height="36"></a> <a href="mailto:mondelaers.ian@gmail.com"><img src="assets/email-button.svg" alt="Email" width="92" height="36"></a>
 
-## How I think about software
-
-### Understand before abstracting
-
-I like understanding why the pieces are there before adding another abstraction, dependency or layer. The shape of a system should follow the problem it has to carry.
-
-### Make failure part of the design
-
-Reliable systems make it clear what happens when dependencies, assumptions or users stop behaving ideally. That clarity belongs in the design, not only in the incident report.
-
-### Keep complexity accountable
-
-Every abstraction, dependency or service should earn the complexity it introduces. I want the reason for each moving part to stay visible as a project grows.
-
-### Cross the software boundary
-
-Robotics interests me because software decisions eventually meet sensing, uncertainty and physical behaviour. AI and agentic systems are another area I'm currently exploring.
-
 ## Currently
 
-Exploring agentic software systems, software architecture and autonomous robotics while finishing my Applied Computer Science degree.
+I'm currently exploring agentic software systems, AI orchestration, software architecture and autonomous systems, particularly where reliable software has to reason, use tools and interact with the physical world.
 
-The pinned repositories below are the public work that best represents where I am technically today.
+*I’m less interested in making software look clever than in making complex systems understandable, reliable, and worth building.*
