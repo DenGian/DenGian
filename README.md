@@ -12,7 +12,7 @@ I'm a software engineer who likes understanding what sits underneath a system, n
 
 My work moves between backend and full-stack systems, browser engineering and robotics. I'm completing a Bachelor's in Applied Computer Science at AP Hogeschool Antwerpen with a Robotics minor.
 
-<a href="https://www.linkedin.com/in/ian-mondelaers/"><img src="assets/linkedin-button.svg" alt="LinkedIn" width="112" height="36"></a> <a href="mailto:mondelaers.ian@gmail.com"><img src="assets/email-button.svg" alt="Email" width="92" height="36"></a>
+<a href="https://www.linkedin.com/in/ian-mondelaers/"><img src="assets/linkedin-button.svg" alt="LinkedIn" width="112" height="36"></a> <a href="mailto:mondelaers.ian@gmail.com"><img src="assets/email-button.svg" alt="Email" width="92" height="36"></a> <a href="https://ianmondelaers.vercel.app/"><img src="assets/portfolio-button.svg" alt="Portfolio website" width="112" height="36"></a>
 
 ## Currently
 
